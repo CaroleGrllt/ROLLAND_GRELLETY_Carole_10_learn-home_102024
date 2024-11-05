@@ -1,0 +1,20 @@
+﻿Liens vers les livrables (Learn@Home)
+
+
+1. TABLEAU KANBAN
+
+Lien vers Trello : 
+https://trello.com/b/lwYVugzW/learnhome-kanban(https://trello.com/b/lwYVugzW/learnhome-kanban)
+
+
+2. MAQUETTES ET PROTOTYPES FIGMA
+
+Lien vers les maquettes desktop et mobile : 
+https://www.figma.com/design/Y9SDeIjaHrsGVC37yQZT8u/Maquettes-Learn%40Home?node-id=1-2&t=I5PnL5lWQKGUK0dF-1(https://www.figma.com/design/Y9SDeIjaHrsGVC37yQZT8u/Maquettes-Learn%40Home?node-id=1-2&t=I5PnL5lWQKGUK0dF-1)
+
+Lien vers le prototype desktop :
+https://www.figma.com/proto/Y9SDeIjaHrsGVC37yQZT8u/Maquettes-Learn%40Home?node-id=60-2039&node-type=canvas&t=I5PnL5lWQKGUK0dF-0&scaling=min-zoom&content-scaling=fixed&page-id=60%3A364(https://www.figma.com/proto/Y9SDeIjaHrsGVC37yQZT8u/Maquettes-Learn%40Home?node-id=60-2039&node-type=canvas&t=I5PnL5lWQKGUK0dF-0&scaling=min-zoom&content-scaling=fixed&page-id=60%3A364)
+
+Lien vers le prototype mobile : 
+https://www.figma.com/proto/Y9SDeIjaHrsGVC37yQZT8u/Maquettes-Learn%40Home?node-id=73-1237&node-type=canvas&t=I5PnL5lWQKGUK0dF-0&scaling=min-zoom&content-scaling=fixed&page-id=60%3A3835&starting-point-node-id=73%3A1237(https://www.figma.com/proto/Y9SDeIjaHrsGVC37yQZT8u/Maquettes-Learn%40Home?node-id=73-1237&node-type=canvas&t=I5PnL5lWQKGUK0dF-0&scaling=min-zoom&content-scaling=fixed&page-id=60%3A3835&starting-point-node-id=73%3A1237)
+
